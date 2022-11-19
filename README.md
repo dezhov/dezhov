@@ -2,7 +2,7 @@
 
 Для связи:
 * 12dim04@gmail.com
-* [@v_tymane](t.me/v_tymane)
+* [t.me/v_tymane](t.me/v_tymane)
 
 *[Здесь можно ознакомиться с сертификатами пройденных мной курсов](https://github.com/dezhov/practicum-ds-projects/blob/main/Certificates/README.md)* 
 
